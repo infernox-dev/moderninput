@@ -8,3 +8,4 @@ from ._input_length import input_length
 from ._input_regex import input_regex
 from ._input_bool import input_bool
 from ._input_email import input_email
+from ._input_choice import input_choice
