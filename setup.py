@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="moderninput",
-    version="0.2",
+    version="0.3",
     author="infernox.dev",
     description="Simple library that makes input easier.",
     url="https://github.com/infernox-dev/moderninput",
