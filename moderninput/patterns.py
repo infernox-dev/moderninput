@@ -9,3 +9,4 @@ from ._input_regex import input_regex
 from ._input_bool import input_bool
 from ._input_email import input_email
 from ._input_choice import input_choice
+from ._input_ipv4 import input_ipv4
